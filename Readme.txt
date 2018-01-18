@@ -1,0 +1,1 @@
+Exercises for book "K&R Language C"
